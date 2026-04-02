@@ -10,6 +10,13 @@
 </p>
 
 <p align="center">
+  <img src="https://github.com/Abhineetraj07/FilmBot/actions/workflows/ci.yml/badge.svg" alt="CI" />
+  <img src="https://img.shields.io/github/last-commit/Abhineetraj07/FilmBot?style=flat-square&color=blue" alt="Last Commit" />
+  <img src="https://img.shields.io/github/stars/Abhineetraj07/FilmBot?style=flat-square&color=yellow" alt="Stars" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" />
+</p>
+
+<p align="center">
   An intelligent movie chatbot that dynamically routes questions across <b>SQL, Vector Search, and Knowledge Graph</b> to deliver accurate, grounded answers over an IMDB dataset of 1,000 movies — with production-grade guardrails.
 </p>
 
@@ -187,7 +194,7 @@ FilmBot/
 
 ## 👨‍💻 Author
 
-**Abhineet Raj** · CS @ SRM Institute of Science & Technology  
+**Abhineet Raj** · CS @ SRM Institute of Science & Technology
 🌐 [Portfolio](https://aabhineet07-portfolio.netlify.app/) · 🐙 [GitHub](https://github.com/Abhineetraj07)
 
 ---
